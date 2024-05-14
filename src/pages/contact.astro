@@ -12,39 +12,18 @@ const metadata = {
 <Layout metadata={metadata}>
   <!-- HeroText Widget ******************* -->
 
-  <HeroText tagline="Contact" title="Let's Connect!" />
-
-  <ContactUs
-    id="form"
-    title="Drop us a message today!"
-    subtitle="Just ask us anything. We are here to help you!"
-    inputs={[
-      {
-        type: 'text',
-        name: 'name',
-        label: 'Name',
-      },
-      {
-        type: 'email',
-        name: 'email',
-        label: 'Email',
-      },
-    ]}
-    textarea={{
-      label: 'Message',
-    }}
-    disclaimer={{
-      label:
-        'By submitting this contact form, you acknowledge and agree to the collection of your personal information.',
-    }}
-    description="It may take some time to get back to you, but we will do our best to respond as soon as possible."
-  />
+  <HeroText tagline="Contact" title="Just contact us!" />
 
   <!-- Features2 Widget ************** -->
 
   <Features2
     title="We are here to help!"
     items={[
+      {
+        title: 'Twitter',
+        description: '@handai_libra',
+        icon: 'tabler:brand-twitter',
+      },
       {
         title: 'Email',
         description: 'libratoiawase@gmail.com',
