@@ -12,16 +12,18 @@ const metadata = {
 <Layout metadata={metadata}>
   <!-- HeroText Widget ******************* -->
 
-  <HeroText tagline="Contact" title="Just contact us!" />
+  <HeroText tagline="Contact | 連絡" title="Just contact us!" />
+  <HeroText title="気軽にお問い合わせくださいませ〜" />
 
   <!-- Features2 Widget ************** -->
 
   <Features2
     title="We are here to help!"
+    title="お手伝いいたします！"
     items={[
       {
         title: 'Twitter',
-        description: '@handai_libra',
+        description: <a href="https://twitter.com/handai_libra" target="_blank">@handai_libra</a>,
         icon: 'tabler:brand-twitter',
       },
       {
