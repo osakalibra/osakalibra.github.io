@@ -80,9 +80,6 @@ export const footerData = {
       ],
     },
   ],
-  secondaryLinks: [
-    { text: 'Privacy Policy', href: getPermalink('/privacy') },
-  ],
   socialLinks: [
     { ariaLabel: 'Twitter', icon: 'tabler:brand-twitter', href: 'https://twitter.com/handai_libra' },
   ],

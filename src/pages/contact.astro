@@ -10,22 +10,29 @@ const metadata = {
 ---
 
 <Layout metadata={metadata}>
-  <!-- HeroText Widget ******************* -->
 
-  <HeroText tagline="Contact | 連絡先" title="Just contact us!" />
-  <HeroText title="気軽にお問い合わせくださいませ〜" />
+  <HeroText tagline="Contact | 連絡先" title="気軽にお問い合わせくださいませ〜" />
 
   <!-- Features2 Widget ************** -->
 
   <Features2
-    title="We are here to help!"
-    title="お手伝いいたします！"
+    title="何でも相談できますよ〜"
     items={[
       {
+        title: 'Languages',
+        description: '日本語, English, 中文, español, etc.',
+        icon: 'tabler:language',
+      }
+      {
         title: 'Twitter',
-        description: '@handai_libra',
+        description: 'https://twitter.com/handai_libra',
         icon: 'tabler:brand-twitter',
       },
+      {
+        title: 'Question Box',
+        description: 'https://querie.me/user/handai_libra',
+        icon: 'tabler:heart-question',
+      }
       {
         title: 'Email',
         description: 'libratoiawase@gmail.com',
