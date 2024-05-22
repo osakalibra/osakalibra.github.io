@@ -11,10 +11,12 @@ const metadata = {
 
 <Layout metadata={metadata}>
 
-  <HeroText tagline="Contact | 連絡先" title=<span>気軽にお問い合わせくださいませ〜<br />Feel free to contact us~</span> />
+  <HeroText tagline="Contact | 連絡先">
+    <span slot="title">気軽にお問い合わせくださいませ〜<br />Feel free to contact us~</span>
+    <span slot="subtitle">何でも相談できますよ～<br />Ask us anything~</span>
+  </HeroText>
 
   <Features2
-    title=<span>何でも相談できますよ～<br />Ask us anything~</span> 
     items={[
       {
         title: 'Languages',
