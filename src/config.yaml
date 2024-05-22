@@ -1,5 +1,5 @@
 site:
-  name: Osaka Libra
+  name: Osaka Univ Libra Official Website
   site: 'https://osakalibra.github.io/'
   base: '/'
   trailingSlash: false
@@ -9,14 +9,14 @@ site:
 # Default SEO metadata
 metadata:
   title:
-    default: 'Osaka Libra'
-    template: '%s — Libra'
-  description: "\U0001F680 Libra Official Website"
+    default: 'Handai Libra'
+    template: '%s - Libra'
+  description: "\U0001F308 Osaka Univ Libra Official Website"
   robots:
     index: true
     follow: true
   openGraph:
-    site_name: 'Osaka Libra'
+    site_name: 'Handai Libra'
     images:
       - url: '~/assets/images/default.png'
         width: 1200
@@ -28,7 +28,7 @@ metadata:
     cardType: summary_large_image
 
 i18n:
-  language: ja
+  language: en
   textDirection: ltr
 
 apps:

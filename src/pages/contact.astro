@@ -11,12 +11,10 @@ const metadata = {
 
 <Layout metadata={metadata}>
 
-  <HeroText tagline="Contact | 連絡先" title="気軽にお問い合わせくださいませ〜" />
-
-  <!-- Features2 Widget ************** -->
+  <HeroText tagline="Contact | 連絡先" title=<span>気軽にお問い合わせくださいませ〜<br />Feel free to contact us~</span> />
 
   <Features2
-    title="何でも相談できますよ〜"
+    title=<span>何でも相談できますよ～<br />Ask us anything~</span> 
     items={[
       {
         title: 'Languages',
@@ -25,12 +23,12 @@ const metadata = {
       },
       {
         title: 'Twitter',
-        description: 'https://twitter.com/handai_libra',
+        description: <a href="https://twitter.com/handai_libra" target="_blank" rel="noopener noreferrer">https://twitter.com/handai_libra</a>,
         icon: 'tabler:brand-twitter',
       },
       {
         title: 'Question Box',
-        description: 'https://querie.me/user/handai_libra',
+        description: <a href="https://querie.me/user/handai_libra" target="_blank" rel="noopener noreferrer">https://querie.me/user/handai_libra</a>,
         icon: 'tabler:heart-question',
       },
       {
