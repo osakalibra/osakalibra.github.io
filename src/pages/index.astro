@@ -2,7 +2,6 @@
 import Layout from '~/layouts/PageLayout.astro';
 
 import Hero from '~/components/widgets/Hero.astro';
-import prideWaniHakase from '~/assets/images/pride-wani-hakase.png';
 // import Note from '~/components/widgets/Note.astro';
 // import Features from '~/components/widgets/Features.astro';
 // import Features2 from '~/components/widgets/Features2.astro';
@@ -25,13 +24,14 @@ const metadata = {
     actions={[
       { text: 'Learn more', href: 'contact' },
     ]}
+    image={{
+      src: '~/assets/images/pride-wani-hakase.png',
+      alt: 'Pride Wani Hakase',
+      width: 200,
+      height: 200,
+    }}
   >
-    <Fragment slot="title" class="relative">
-      <img src={prideWaniHakase.src} alt="Pride Wani Hakase" class="absolute w-[200px] h-[200px] top-[75px] left-1/2 transform -translate-x-1/2"/>
-      <span class="text-accent dark:text-white highlight block mt-16">
-      <span class="text-accent dark:text-white highlight">
-        <br>
-        <br>
+    <Fragment slot="title">
         大阪大学LGBTQ+コミュニティ<br>
         The LGBTQ+ Community<br>
         of the University of Osaka</span>
