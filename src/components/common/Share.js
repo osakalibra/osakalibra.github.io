@@ -13,12 +13,6 @@ document.addEventListener('DOMContentLoaded', () => {
         case 'twitter':
           shareUrl = `https://twitter.com/intent/tweet?url=${encodeURIComponent(url)}&text=${encodeURIComponent(text)}`;
           break;
-        case 'telegram':
-          shareUrl = `https://telegram.me/share/url?url=${encodeURIComponent(url)}&text=${encodeURIComponent(text)}`;
-          break;
-        case 'line':
-          shareUrl = `https://social-plugins.line.me/lineit/share?url=${encodeURIComponent(url)}`;
-          break;
         default:
           return;
       }

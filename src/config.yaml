@@ -1,5 +1,5 @@
 site:
-  name: Osaka Univ Libra Official Website
+  name: Osaka Univ Libra
   site: 'https://osakalibra.github.io/'
   base: '/'
   trailingSlash: false
