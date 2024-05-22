@@ -26,14 +26,14 @@ export const headerData = {
           text: 'Blog List',
           href: getBlogPermalink(),
         },
-        {
-          text: 'Category Page',
-          href: getPermalink('tutorials', 'category'),
-        },
-        {
-          text: 'Tag Page',
-          href: getPermalink('astro', 'tag'),
-        },
+        // {
+        //   text: 'Category Page',
+        //   href: getPermalink('tutorials', 'category'),
+        // },
+        // {
+        //   text: 'Tag Page',
+        //   href: getPermalink('astro', 'tag'),
+        // },
       ],
     },
   ],
@@ -53,7 +53,7 @@ export const footerData = {
           href: getPermalink('/contact'),
         },
         {
-          text: 'Privacy policy',
+          text: 'Privacy Policy',
           href: getPermalink('/privacy'),
         },
       ],
@@ -69,19 +69,22 @@ export const footerData = {
           text: 'Article',
           href: getPermalink('get-started-website-with-astro-tailwind-css', 'post'),
         },
-        {
-          text: 'Category Page',
-          href: getPermalink('tutorials', 'category'),
-        },
-        {
-          text: 'Tag Page',
-          href: getPermalink('astro', 'tag'),
-        },
+        // {
+        //   text: 'Category Page',
+        //   href: getPermalink('tutorials', 'category'),
+        // },
+        // {
+        //   text: 'Tag Page',
+        //   href: getPermalink('astro', 'tag'),
+        // },
       ],
     },
   ],
   socialLinks: [
     { ariaLabel: 'Twitter', icon: 'tabler:brand-twitter', href: 'https://twitter.com/handai_libra' },
+  ],
+  secondaryLinks: [
+    { title: 'Privacy Policy', href: getPermalink('/privacy') },
   ],
   footNote: `
   © 2007 - 2024 Libra. All rights reserved. · Made by <a class="text-blue-600 underline dark:text-muted" href="https://onwidget.com/"> onWidget</a>
