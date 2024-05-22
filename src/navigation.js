@@ -23,7 +23,7 @@ export const headerData = {
       text: 'Blog',
       links: [
         {
-          text: 'Blog List',
+          text: 'Our Blog',
           href: getBlogPermalink(),
         },
         // {
@@ -62,13 +62,13 @@ export const footerData = {
       title: 'Blog',
       links: [
         {
-          text: 'Blog List',
+          text: 'Our Blog',
           href: getBlogPermalink(),
         },
-        {
-          text: 'Article',
-          href: getPermalink('get-started-website-with-astro-tailwind-css', 'post'),
-        },
+        // {
+        //   text: 'Article',
+        //   href: getPermalink('get-started-website-with-astro-tailwind-css', 'post'),
+        // },
         // {
         //   text: 'Category Page',
         //   href: getPermalink('tutorials', 'category'),
@@ -84,7 +84,6 @@ export const footerData = {
     { ariaLabel: 'Twitter', icon: 'tabler:brand-twitter', href: 'https://twitter.com/handai_libra' },
   ],
   secondaryLinks: [
-    { title: 'Privacy Policy', href: getPermalink('/privacy') },
   ],
   footNote: `
   © 2007 - 2024 Libra. All rights reserved. · Made by <a class="text-blue-600 underline dark:text-muted" href="https://onwidget.com/"> onWidget</a>

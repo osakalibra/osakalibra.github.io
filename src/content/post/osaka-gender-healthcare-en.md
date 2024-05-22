@@ -1,8 +1,8 @@
 ---
 publishDate: 2024-05-22T13:38:00Z
 author: Libra Official
-title: Gender Healthcare Information in Osaka
-excerpt: 大阪のジェンダー医療関連情報
+title: Gender Healthcare Information in Osaka (English)
+excerpt: 大阪のジェンダー医療関連情報（英語）
 category: Info
 tags:
   - transgender
@@ -10,12 +10,13 @@ tags:
   - non-binary
 ---
 
+[日本語版](https://osakalibra.github.io/osaka-gender-healthcare-ja/)
+
 > This article is still under construction.
-> [日本語版](https://osakalibra.github.io/osaka-gender-healthcare-ja/)
 
 ## What am I?
 
-**Let's be honest: You are free. You can be anything. Nothing will stop you. **
+**Let's be honest: You are free. You can be anything. Nothing will stop you.**
 
 If you're still wondering that  “Oh I don't know, I want to talk about it”, you are of course welcome to [contact us](https://osakalibra.github.io/contact/)!
 
