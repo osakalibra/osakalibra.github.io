@@ -3,16 +3,19 @@ publishDate: 2024-05-22T13:38:00Z
 author: Libra Official
 title: Gender Healthcare Information in Osaka (English)
 excerpt: 大阪のジェンダー医療関連情報（英語）
+image: ~/assets/images/osaka-transgender.webp
 category: Info
 tags:
   - transgender
   - queer
   - non-binary
+metadata:
+  canonical: https://osakalibra.github.io/osaka-gender-healthcare-en/
 ---
 
 [日本語版](https://osakalibra.github.io/osaka-gender-healthcare-ja/)
 
-> This article is still under construction.
+*This article is still under construction.*
 
 ## What am I?
 
@@ -32,7 +35,7 @@ In the Kansai region, there is an organization called [the Kansai GIC Network](h
 
 For MtF individuals, [Transfemine Science](https://transfemscience.org/) provides a wealth of useful information. I personally find this site to be a valuable resource.
 
-** Therefore, we would like to ask AFAB (Assigned Female At Birth) to provide us with information on their experiences, as there are still very few about them.
+**Therefore, we would like to ask AFAB (Assigned Female At Birth) to provide us with information on their experiences, as there are still very few about them.**
 
 ## Psychiatry, etc.
 

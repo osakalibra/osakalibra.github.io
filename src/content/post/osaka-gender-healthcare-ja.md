@@ -3,16 +3,19 @@ publishDate: 2024-05-21T01:34:00Z
 author: Libra Official
 title: 大阪のジェンダー医療関連情報（日本語）
 excerpt: Gender Healthcare Information in Osaka (Japanese)
+image: ~/assets/images/osaka-transgender.webp
 category: Info
 tags:
   - transgender
   - queer
   - non-binary
+metadata:
+  canonical: https://osakalibra.github.io/osaka-gender-healthcare-ja/
 ---
 
 [English Version](https://osakalibra.github.io/osaka-gender-healthcare-en/)
 
-> この文章はまだ完成されていません。
+*この文章はまだ完成されていません。*
 
 ## 私はなんですか？
 
@@ -23,7 +26,6 @@ tags:
 ## これを書いた理由
 
 筆者はAMAB（Assigned Male At Birth、生物学的男性）のノンバイナリーであり、大阪大学の留学生でもあります。日本でジェンダー外来やホルモン治療に関する情報を探すのは難しいと感じていました。しかし、最終的には精神科で診断書を取得し、ホルモン治療を受けることができました。同じようにジェンダー外来やホルモン治療を受けたいと考えている方々のために、大阪の医療関連情報を提供したいと思います。
-**よって、AFAB（Assigned Female At Birth、生物学的女性）の方に対し、経験談がまだ少ないので、ぜひ情報提供をお願い申し上げます。
 
 ## 概要
 
@@ -32,6 +34,8 @@ tags:
 関西には、[NPO法人 関西GICネットワーク](https://www.kgn.or.jp/index.html)という組織があります。この組織のメンバーであれば、信頼性があると考えられます。
 
 MtFの方に対し、[Transfemine Science](https://transfemscience.org/)というサイトで様々な有益な情報が提供されています。筆者もこちらのサイトを大いに参考にしています。
+
+**AFAB（Assigned Female At Birth、生物学的女性）の方に対し、経験談がまだ少ないので、ぜひ情報提供をお願い申し上げます。**
 
 ## 精神科等
 
