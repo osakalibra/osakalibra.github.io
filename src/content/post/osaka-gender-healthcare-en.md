@@ -41,7 +41,7 @@ For Transfeminine individuals, [Transfeminine Science](https://transfemscience.o
 
 ## Psychiatrists, Urologists, etc.
 
-First, you must be diagnosed in a psychiatric gender clinic, following their guidelines.
+First, you must be diagnosed at a psychiatric gender clinic, following its guidelines.
 
 ### [Kijima Mental Clinic](http://www.kijima.or.jp/cocoro/shinryo/gender/)
 
