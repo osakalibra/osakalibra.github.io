@@ -17,27 +17,29 @@ metadata:
 
 *This article is still under construction.*
 
-## What am I?
+## Who Am I? If I Want To Speak To Someone, How Should I Reach Out?
 
 **Let's be honest: You are free. You can be anything. Nothing will stop you.**
 
-If you're still wondering that  “Oh I don't know, I want to talk about it”, you are of course welcome to [contact us](https://osakalibra.github.io/contact/)!
+If you are still in the process of understanding your feelings, and would like to know about some of the ways that dysphoria can manifest in day-to-day lives, the [Gender Dysphoria Bible](https://genderdysphoria.fyi/) should be your next stop!
 
-## Why did I write this?
+Of course, if you'd like someone to talk to, you are very welcome to [contact us](https://osakalibra.github.io/contact/)!
 
-I am an AMAB (Assigned Male At Birth) non-binary international student in the University of Osaka. I found it challenging to find information about gender clinics and hormone therapy in Japan. However, I was eventually able to receive a diagnosis from a psychiatrist and begin HRT. I would like to provide healthcare information in Osaka for those who are looking to access gender clinics and hormone therapy.
+## Why Did I Write This?
 
-## Abstract
+I am an AMAB (Assigned Male At Birth) non-binary international student at the University of Osaka. I found it challenging to gather information about gender clinics and hormone therapy in Japan. Despite the difficulties, eventually, I was able to receive a diagnosis from a psychiatrist and begin HRT. As such, I would like to provide healthcare information for those in Osaka looking to access gender clinics and undergo medical transitioning.
 
-In Japan, the diagnosis of gender dysphoria is conducted according to [the Guidelines for the Diagnosis and Treatment of GID](https://www.jspn.or.jp/modules/advocacy/index.php?content_id=23). **(While "gender dysphoria" is already used internationally, the term "gender identity disorder" is still used in Japan.)**
+## Some Basic Information
 
-In the Kansai region, there is an organization called [the Kansai GIC Network](https://www.kgn.or.jp/index.html). Membership in this organization is considered credible.
+In Japan, the diagnosis of Gender Dysphoria is conducted according to [the Guidelines for the Diagnosis and Treatment of GID](https://www.jspn.or.jp/modules/advocacy/index.php?content_id=23). **(While "Gender Dysphoria" is internationally recognised under DSM-5, the term "Gender Identity Disorder" is still used in Japan.)**
 
-For MtF individuals, [Transfemine Science](https://transfemscience.org/) provides a wealth of useful information. I personally find this site to be a valuable resource.
+In the Kansai region, there is an organisation named [the Kansai GIC Network](https://www.kgn.or.jp/index.html). Membership in this organisation is generally considered trustworthy.
 
-**Therefore, we would like to ask AFAB (Assigned Female At Birth) to provide us with information on their experiences, as there are still very few about them.**
+For Transfeminine individuals, [Transfeminine Science](https://transfemscience.org/) provides a wealth of useful information. I personally find this site to be a valuable resource.
 
-## Psychiatry, etc.
+**We're still short on experiences from those who were AFAB (Assigned Female At Birth), so we'd really appreciate any insights or information you can share.**
+
+## Psychiatrists, Urologists, etc.
 
 First, you must be diagnosed in a psychiatric gender clinic, following their guidelines.
 
@@ -45,15 +47,17 @@ First, you must be diagnosed in a psychiatric gender clinic, following their gui
 
 - Address: 2-19-7 Habucho, Kishiwada-shi, Osaka-fu 596-0825
 - Doctor: Hiroyuki ODA (Vice President of [Kansai GIC Network](https://www.kgn.or.jp/officer.html))
-- Reservations: Required
+- Appointment Required: Yes
 
-The author made an appointment by phone at this clinic and received a diagnosis. The process and prices can be found on the official website. Mostly, you will be counseled by a licensed psychologist, followed by WAIS-3 (intelligence test, very long and boring, so you may need to be prepared), and then you will be examined by a designated urologist (it will be stressful, but there is nothing else you can do about it in Japan at this time). If you are already on DIYHRT, you can also have a blood test if you inform them of this. After counseling by a licensed psychologist and the intelligence test, continuing medical treatment can be provided at the Irisawa Mind & Body Clinic in Namba.
+The author made an appointment by phone at this clinic and received a diagnosis. The process and prices can be found on their official website.
+
+Generally, you'll receive counseling from a certified psychologist, then take the WAIS-3 (an intelligence test, which might feel tedious, so some mental preparation might help), and undergo examinations at a designated urology clinic (it might be stressful, but unfortunately, that's how it is in Japan at the moment). If you're already self-administering hormone therapy, you can mention it, and they can arrange for blood tests as well. After counseling and the intelligence test, ongoing treatment can be continued at the Irisawa Mind and Body Clinic in Namba.
 
 ### [Iwasa Clinic (Urology)](https://www.iwasa-cl.net/)
 
 - Address: 三共日本橋ビル 3F, 1-3-1, Nipponbashi, Chuo-ku, Osaka-shi 542-0073
 - Doctor: Atsushi IWASA (External Member of the Body Treatment Judgment Council)
-- Reservations: Not required
+- Appointment Required: No
 
 This is the urology department designated by the Kijima Mental Clinic.
 
@@ -61,23 +65,23 @@ This is the urology department designated by the Kijima Mental Clinic.
 
 - Address: GP・GATEビル 3F, 3-7-12, Namba, Chuo-ku, Osaka-shi 542-0076
 - Doctors: Hiroyuki ODA, Satoshi IRISAWA (Regular Member of [Kansai GIC Network](https://www.kgn.or.jp/member1.html))
-- Reservations: Required
+- Appointment Required: Yes
 
-Here, you will receive an explanation about hormone therapy, go through a "body treatment judgement meeting", receive an official medical certificate, and finally be able to receive HRT. (Of course, I have heard that it is possible to do HRT without a medical certificate, but I won't discuss that here.)
+Here, you'll receive explanations about hormone therapy, go through an evaluation meeting, and finally obtain a diagnosis certificate, making hormone therapy possible. (Of course, I've heard that some places may offer hormone therapy without a diagnosis certificate, but we won't discuss that here.)
 
-Also, after receiving the medical certificate, you can change the gender column on your National Health Insurance Card (国民健康保険証) to “written on the back” (裏面記載) at your municipal office.
+Additionally, after obtaining the diagnosis certificate, you can change the gender designation on your National Health Insurance Card (国民健康保険証) to 'listed on the back' (裏面記載) at the municipal office.
 
 ### [Son Mental Clinic](https://son-mentalclinic.jp/index.html)
 
 - Address: 天王寺MIOプラザ館 7F, 10-48, Hidenin-cho, Tennoji-ku, Osaka-shi 543-0055
 - Doctor: Jun KOH (President of [Kansai GIC Network](https://www.kgn.or.jp/officer.html))
-- Reservations: Required
+- Appointment Required: Yes
 
-This gender clinic is also well known (especially for FtM?), but there is information that it is difficult to get an appointment. The author has never been there.
+This gender clinic is also well known (especially for FtM?), but there have been instances where people reported that it has been difficult to get an appointment there, and the author has never been seen by them.
 
 ## HRT
 
-After obtaining a medical certificate, the patient can undergo HRT.
+After obtaining a diagnosis certificate, the individual can officially undergo Hormone Replacement Therapy.
 
 ### [Fukuta Clinic](http://www.fukucli-5505.com/original4.html)
 
@@ -85,15 +89,15 @@ After obtaining a medical certificate, the patient can undergo HRT.
 - Doctor: Ryo FUKUTA (Advisor of [Kansai GIC Network](https://www.kgn.or.jp/officer.html))
 - Reservations: Not required
 
-For AMAB, Progynon Depot 10mg (Estradiol valerate a.k.a EV) 1A can be injected at ¥770, which may be the lowest price in Kansai. The author is receiving injections @2A here once 10 days.
+For individuals assigned male at birth, Progynon Depot 10mg (estradiol valerate) can be administered for 770 yen out of pocket, which may be the lowest price in the Kansai region. Personally, I receive injections here.
 
-For AFAB, Enarmon Depot 125mg / 250mg (Testosterone Enanthate) can be injected at ¥2,750 / ¥4,450.
+For individuals assigned female at birth, Enarmon Depot 250mg (testosterone enanthate) is administered for 1,920 yen out of pocket.
 
 ### [Kawabata Ladies Clinic](http://www4.plala.or.jp/kwbtlc/gender.html)
 
 - Address: アーリーアーク 1F, 2-5-15, Juso Higashi, Yodogawa-ku, Osaka-shi 532-0023
 - Doctor: Ryoichi KAWABATA (Regular Member of [Kansai GIC Network](https://www.kgn.or.jp/member1.html))
 
-For AMAB, L'oestrogel (80g per bottle) can be purchased at ¥2,420. The author has not been there yet, but according to the information we have gathered, if you'd like to use gel, here may be the cheapest.
+For individuals assigned male at birth, you can purchase L'oestrogel Gel (80g per bottle) for 2,420 yen out of pocket. Although I haven't tried it myself, according to the information I've found, gel purchased here might be the most affordable option.
 
-For AFAB, Enarmon Depot 250mg (Testosterone Enanthate) can be injected at ¥1,980. Testinon Depot 125mg / 250mg (Testosterone Enanthate as well) can be injected at ¥1,210 /  ¥1,760
+For individuals assigned female at birth, Testinon Depot 125mg/250mg (testosterone enanthate) can be administered for 1,210 yen/1,760 yen out of pocket. Similarly, Enarmon Depot 250mg, also containing testosterone enanthate, is administered for 1,920 yen out of pocket.
