@@ -86,6 +86,6 @@ export const footerData = {
   secondaryLinks: [
   ],
   footNote: `
-  © 2007 - 2024 Libra. All rights reserved. · Made by <a class="text-blue-600 underline dark:text-muted" href="https://onwidget.com/"> onWidget</a>
+  © 2007 - 2026 Libra. All rights reserved. · Made by <a class="text-blue-600 underline dark:text-muted" href="https://onwidget.com/"> onWidget</a>
   `,
 };
